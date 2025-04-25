@@ -1,0 +1,6 @@
+gcc -o program main.c -lpcap -lpthread
+
+./program -s eth0
+
+./program -c 172.25.96.232
+

@@ -1,0 +1,21 @@
+
+Step1:
+./server          ----->start server
+ssh -R 12345:localhost:8080 serveo.net    --->forward to serveo net
+
+
+Step2:
+./client  <ip_addr> <port>      --->start client
+//get serveo net ip_address using ping to get Ip and PORT=12345
+
+
+Step3:Start analyzer    
+./analyzer
+
+Step4:Analysis using wireshark
+
+Step5:Make graph using python and show plots
+python3 main.py
+
+#138.68.79.95
+#IPQ5W25YXGCJ6YKWGQHLA5XXKBSOK237

@@ -1,0 +1,28 @@
+Timestamp,2025-04-16 20:59:15
+Metric,Value
+Total Packets,0
+TCP Packets,0
+UDP Packets,0
+ICMP Packets,0
+Other Protocol Packets,0
+Total Bytes,0
+Packets Lost,0
+Packet Loss Rate,0.00%
+Average Jitter (ms),0.00
+Minimum Jitter (ms),0.00
+Maximum Jitter (ms),0.00
+Average Packet Size (bytes),0.00
+Minimum Packet Size (bytes),0
+Maximum Packet Size (bytes),0
+Session Duration (seconds),31.72
+SYN Packets,0
+FIN Packets,0
+RST Packets,0
+ACK Packets,0
+PSH Packets,0
+
+Top Source Ports
+Port,Count
+
+Top Destination Ports
+Port,Count
